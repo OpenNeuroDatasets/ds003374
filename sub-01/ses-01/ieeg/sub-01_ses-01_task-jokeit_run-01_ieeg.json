@@ -31,5 +31,6 @@
     "SoftwareVersions": "Cheetah",
     "iEEGReference": "intracranial depth electrode, not included with data",
     "ElectrodeManufacturer": "ADTech",
+	"iEEGElectrodeGroups": "depthAmgL: 1x8 depth electrode in the left amygdala, depthAmgR: 1x8 depth electrode in the right amygdala",
     "iEEGPlacementScheme": "bilateral depth eleectrodes in the medial temporal lobe"
 }
