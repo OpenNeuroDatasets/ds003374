@@ -21,8 +21,6 @@ Contains folders for each subject, named sub-<subject number>.
 Contains data in the NIX standard, and metadata files. Subject_Characteristics.pdf describes subjects and NIX_File_Structure.pdf describes the structure of the NIX files.
 
 #### Directory code_MATLAB
-
- 
 Contains MATLAB code for loading the data and generating the publication figures. Main_Load_NIX_Data.m contains code snippets for reading NIX data and task related information. Main_Plot_Figures.m uses the functions Figure_2.m and Figure_3.m to generate figures.
 
 Required dependencies to run the script Main_Load_NIX_Data.m:
@@ -35,7 +33,7 @@ Required dependencies to run the script Main_Plot_Figures.m:
 *  [Gramm](https://github.com/piermorel/gramm/)
 *  [FieldTrip](http://www.fieldtriptoolbox.org/download/)
 
-### Directory data_NIX
+#### Directory data_NIX
 Contains nix files for each session of the task. Each file is named with the format:  
 Data\_Subject\_\<subject number>\_Session\_\<session number>.h5
 
@@ -49,6 +47,3 @@ For questions on the dataset or the task, contact Johannes Sarnthein at [johanne
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
 See `LICENSE.txt` for the full license.
-
-
-Contains Subject_Characteristics.pdf which describes subjects and NIX_File_Structure.pdf which describes the structure of the nix files.
