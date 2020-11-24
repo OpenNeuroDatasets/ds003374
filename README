@@ -5,7 +5,7 @@ We present an electrophysiological dataset collected from the amygdalae of nine 
 
 We provide the recordings of intracranial EEG (iEEG) and metadata related to the task, subjects, sessions and electrodes in the BIDS standard.
 
-We also provide a more extended version of the dataset that includes neuronal spike times and waveforms in the NIX standard under the folder "bidsignore/data_NIX". This extended dataset is also available in G-Node (https://gin.g-node.org/USZ_NCH/Human_Amygdala_MUA_sEEG_FearVideo/).
+We also provide a more extended version of the dataset that includes neuronal spike times and waveforms in the NIX standard under the folder "bidsignore/data_NIX". This extended dataset is also available in G-Node at https://gin.g-node.org/USZ_NCH/Human_Amygdala_MUA_sEEG_FearVideo/.
 
 This dataset allows the investigation of amygdalar response to dynamic aversive stimuli at multiple spatial scales, from the macroscopic EEG to the neuronal firing in the human brain.
 
